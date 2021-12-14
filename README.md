@@ -2,7 +2,7 @@
 
 ### This app is intended to be a Machine Learning based cryptocurrency prediction tool. 
 
-This application and its underlying machine learning models were developed by Anders Kiss and Robert Clarke in 2021 as part of their Masters in Artificial Intelligence course, B9AI102 Machine Learning and Pattern Recognition.
+This application and its underlying machine learning models were developed by Zakaria Mejrhirou in 2021 as part of their Masters in Artificial Intelligence course, B9AI102 Machine Learning and Pattern Recognition.
 
 The following **Machine Learning algorithms** were utilized:
 - **Naive Bayes**
